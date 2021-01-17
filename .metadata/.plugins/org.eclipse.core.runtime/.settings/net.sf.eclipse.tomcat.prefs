@@ -1,0 +1,11 @@
+contextsDir=E\:\\apache-tomcat-9.0.33-windows-x64\\apache-tomcat-9.0.33\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+enabledSecurityManager=true
+managerPassword=admin
+managerUrl=http\://localhost\:8080/manager
+managerUser=admin
+projectsInSourcePath=SignInAssignment;
+tomcatConfigFile=E\:\\apache-tomcat-9.0.33-windows-x64\\apache-tomcat-9.0.33\\conf\\server.xml
+tomcatDir=E\:\\apache-tomcat-9.0.33-windows-x64\\apache-tomcat-9.0.33
+tomcatJRE=1610372794409
+tomcatVersion=tomcatV9
