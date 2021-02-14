@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;LeetCode.t07655_2021_2_14&apos; to &apos;t0765_2021_2_14&apos;&#x0D;&#x0A;- Original project: &apos;SignInAssignment&apos;&#x0D;&#x0A;- Original element: &apos;LeetCode.t07655_2021_2_14&apos;&#x0D;&#x0A;- Renamed element: &apos;LeetCode.t0765_2021_2_14&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;t07655_2021_2_14&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;LeetCode{t07655_2021_2_14.java[t07655_2021_2_14" matchStrategy="1" name="t0765_2021_2_14" qualified="false" references="true" similarDeclarations="false" stamp="1613270276185" textual="false" version="1.0"/>
+</session>
